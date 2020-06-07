@@ -1,4 +1,4 @@
-const PORT = 4000;
+const PORT = 80;
 const HOST = 'localhost';
 const DATA_PATH = './data/count.json'
 
