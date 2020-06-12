@@ -1,0 +1,9 @@
+#ignore git
+.git
+
+#ignore readme and whatsoever mdfile
+*.md
+!README*.md
+
+#important, ignore data on image build because it should be allocated!
+data
